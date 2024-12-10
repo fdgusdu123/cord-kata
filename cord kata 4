@@ -1,4 +1,4 @@
-알고리즘 코드카타 3번문제 
+알고리즘 코드카타 4번문제 
 
 def solution(age):
     answer = 2022-age+1
